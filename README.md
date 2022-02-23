@@ -54,7 +54,7 @@
 - [ ] [TCP-IP详解卷一：协议.pdf](./PDF/TCP-IP详解卷一：协议.pdf)
 - [ ] [TCP-IP详解卷二：实现.pdf](./PDF/(TCP-IP详解卷二：实现.pdf)
 - [ ] [TCP-IP详解卷三：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf](./PDF/TCP-IP详解卷三：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf)
-- [ ] [UNIX网络编程卷1：套接字联网API（第3版）.pdf](./PDF/UNIX网络编程卷1：套接字联网API（第3版）.pdf)
+- [ ] [UNIX网络编程卷1：套接字联网API（第3版）.pdf](./PDF/UNIX网络编程卷1：套接字联网API（第3版）.pdf)（[英文版](./PDF/UNIX+Network+Programming(Volume1,3rd).pdf)）
 - [ ] [UNIX网络编程卷2：进程间通信（第2版）.pdf](./PDF/UNIX网络编程卷2：进程间通信（第2版）.pdf)
 - [ ] 《计算机网络-自顶向下》
 - [ ] 《UNIX 环境高级编程》
@@ -81,12 +81,17 @@
 - [ ] 《程序员自我修养》--别被名字迷惑了，这本书真正该叫 《编译链接与运行》，真是好书
 - [ ] 《链接器和加载器》
 - [ ] 《COM 本质论》
-- [ ] 
 
 ## 实用类
 
 - [ ] 《如何阅读一本书》
 - [ ] 《刻意练习》
+
+
+
+## 其他
+
+[《Single UNIX Specification Version 4 2018 Edition》（POSIX文档）](./Doc/Single UNIX Specification Version 4 2018 Edition.zip)
 
 
 
