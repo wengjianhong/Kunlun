@@ -1,4 +1,4 @@
-因为文件较大使用git不好维护且git同步大文件有流量限制，文档文件将不再同步，如需要下载请移步：https://www.aliyundrive.com/s/Fg9ApN1XSbt
+因为文件较大使用git同步太耗时且git同步大文件有流量限制，文档文件将不再同步，如需要下载请移步：https://www.aliyundrive.com/s/Fg9ApN1XSbt
 
 
 # Kunlun
